@@ -1,0 +1,344 @@
+
+.paymet-main {
+  border-radius: 20px;
+  background-color: #f4f7fc;
+  width: 70%;
+  margin: auto;
+}
+
+.paymet-details {
+  border-radius: 20px;
+  background-color: #fcfcfc;
+  padding-top: 30px;
+
+  box-shadow: 0 12px 34px -10px rgba(0, 0, 0, .05);
+  margin: auto auto 30px;
+  padding-bottom: 10px;
+  max-width: 100%;
+  padding-inline: 100px;
+}
+
+.payment_student {
+  text-align: start;
+  padding-top: 15px;
+  color: #454c4e;
+  font-family: "Proxima Nova";
+  font-size: 30px;
+  font-weight: 700;
+  display: flex;
+  justify-content: space-between;
+}
+
+.paymet-heading-color {
+  text-transform: capitalize;
+}
+
+.section-heading1 {
+  text-align: left;
+  background-color: #f4f7fc;
+  padding: 9px;
+  margin-top: 15px;
+  width: 100%;
+  color: #454c4e;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 26px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.class-name {
+  margin-left: 10px;
+}
+
+.payment-section {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.payment-subject-heading {
+  margin-top: 0;
+  margin-bottom: .5em;
+  opacity: .8;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 24px;
+  color: #454c4e;
+  mix-blend-mode: normal;
+  font-family: inherit;
+}
+
+.course_details {
+  opacity: .8;
+  color: #7d8283;
+  font-family: "Proxima Nova";
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 22px;
+  text-transform: capitalize;
+}
+
+.border-bottom {
+  margin-top: 3rem;
+  border-bottom: 1px solid #ededed;
+}
+
+.payment-total {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.total {
+  font-style: normal;
+  font-weight: 800;
+  line-height: 24px;
+  color: #454c4e;
+  opacity: .8;
+  font-size: 22px;
+  mix-blend-mode: normal;
+}
+
+.gst-text {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.amount {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 24px;
+  color: #454c4e;
+  opacity: .8;
+}
+
+.space {
+  margin-top: 3.5rem;
+}
+
+.payment-total-details {
+  border-radius: 20px;
+  background-color: #e3fff6;
+  padding-top: 30px;
+  padding-bottom: 37px;
+  box-shadow: 0 12px 34px -10px rgba(0, 0, 0, .05);
+  margin: auto auto 30px;
+  max-width: 900px;
+  padding-inline: 120px;
+}
+
+.apply-cupon {
+  margin-top: 3.5rem;
+  margin-bottom: 1.5rem;
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 20px;
+  color: #1b1b1b;
+}
+
+.coupon-box {
+  display: flex;
+}
+
+.cupon-code-input {
+  border-radius: 10px 0 0 10px;
+  padding: 9px;
+  border: none;
+  margin: 0;
+  width: 87%;
+  height: 50px;
+  overflow: visible;
+  color: inherit;
+  font-size: inherit;
+  font-family: inherit;
+  line-height: inherit;
+}
+
+.cupon-button {
+  cursor: pointer;
+  border-radius: 0 10px 10px 0;
+  background-color: #e67300;
+  margin: 0;
+  width: 87px;
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 18px;
+  color: #fff;
+  text-transform: none;
+  overflow: visible;
+}
+
+.cupon_error {
+  color: red;
+  font-size: 17px;
+}
+
+.course-student-detail {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cupon_code_txt {
+  margin-top: 0;
+  margin-bottom: .5em;
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 24px;
+  color: #e67300;
+}
+
+.cupon_code_amt {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 24px;
+  color: #e67300;
+}
+
+.pay-for-course {
+  opacity: .8;
+  color: #454c4e;
+  font-size: 24px;
+  font-weight: 600;
+  text-transform: capitalize;
+  letter-spacing: 0;
+  line-height: 29px;
+  width: 60%;
+  margin-top: 0;
+  margin-bottom: .5em;
+  font-family: inherit;
+}
+
+.price-dollar {
+  opacity: .8;
+  color: #454c4e;
+  line-height: 24px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+
+.border-bottom {
+  margin-top: 1.5rem;
+  border-bottom: 1px solid #ededed;
+}
+
+.grand-total-gst-content {
+  margin-top: 19px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.grand-amt {
+  margin-top: 0;
+  margin-bottom: .5em;
+  font-weight: 700;
+  font-size: 30px;
+  color: #43aa8b;
+  font-style: normal;
+  line-height: 34px;
+  font-family: inherit;
+}
+
+.gst-text {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.grand-value {
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 37px;
+  font-weight: 700;
+  font-size: 30px;
+  color: #43aa8b; 
+}
+
+.footer-payment-option {
+  background: #fff;
+  box-shadow: 0 2px 34px -10px hsla(0, 0%, 62.4%, .5);
+  border-radius: 10px;
+  position: sticky;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  padding-inline: 50px;
+  padding-block: 22px;
+}
+
+.register-back {
+  cursor: pointer;
+  margin-right: 10px;
+  border-radius: 33.75px;
+  background-color: transparent;
+  border: 1px solid #000;
+  text-align: center;
+  padding: 0 25px;
+  margin: 0;
+  color: #000;
+  width: 125px;
+  height: 55px;
+  font-size: 20px;
+  font-family: "proxima_nova_rgbold";
+  transition: .3s;
+  opacity: .8;
+  overflow: visible;
+  margin-right: 10px;
+}
+
+.register-next-btn {
+  cursor: pointer;
+  background-color: #43aa8b;
+  border-radius: 33.75px;
+  border: 0;
+  text-align: center;
+  padding: 0 25px;
+  box-shadow: 0 12px 10px rgba(67, 170, 139, .254371);
+  margin: 0;
+  color: #fff;
+  width: 240px;
+  height: 55px;
+  font-size: 20px;
+  font-family: "proxima_nova_rgbold";
+  transition: .3s;
+  opacity: .8;
+  overflow: visible;
+  text-transform: none;
+}
+
+.register-next-btn2 {
+  margin-left: 1rem;
+}
+
+.total_value {
+  text-align: right;
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 24px;
+  color: #43aa8b;
+}
+
+
+.total_amount {
+  text-align: right;
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 16px;
+}
